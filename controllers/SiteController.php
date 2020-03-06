@@ -6,7 +6,7 @@
     {
         public function actionIndex ()
         {
-            echo '123';
+            echo 'resert';
             return $this->render('index');
         }
         public function actionFilms ()
