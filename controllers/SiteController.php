@@ -6,7 +6,7 @@
     {
         public function actionIndex ()
         {
-            echo 'resert';
+            echo 'Testing change this file for branch`s exercise';
             return $this->render('index');
         }
         public function actionFilms ()
