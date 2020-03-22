@@ -1,7 +1,7 @@
 <?php
  namespace app\assets;
 
- use Yii\web\AssetBundle;
+ use yii\web\AssetBundle;
 
  class AppAsset extends AssetBundle
  {
